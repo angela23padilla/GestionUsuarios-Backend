@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GestionUsuarios.Application/1.0.0": {
+        "dependencies": {
+          "GestionUsuarios.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GestionUsuarios.Application.dll": {}
+        }
+      },
+      "GestionUsuarios.Domain/1.0.0": {
+        "runtime": {
+          "GestionUsuarios.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GestionUsuarios.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GestionUsuarios.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

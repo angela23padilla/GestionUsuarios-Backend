@@ -1,0 +1,60 @@
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.deps.json
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfo.cs
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionU.BFC7F158.Up2Date
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\refint\GestionUsuarios.Application.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\ref\GestionUsuarios.Application.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.deps.json
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionU.BFC7F158.Up2Date
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\refint\GestionUsuarios.Application.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\ref\GestionUsuarios.Application.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.deps.json
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfo.cs
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionU.BFC7F158.Up2Date
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\refint\GestionUsuarios.Application.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Application\obj\Debug\net8.0\ref\GestionUsuarios.Application.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.deps.json
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionU.BFC7F158.Up2Date
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\refint\GestionUsuarios.Application.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Application\obj\Debug\net8.0\ref\GestionUsuarios.Application.dll

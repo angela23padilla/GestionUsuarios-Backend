@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "usmuQ6oNccHFC1Y02r290yuJR8atouREuAvmHqeyCBc=",
+  "Source": "GestionUsuarios.Api",
+  "BasePath": "_content/GestionUsuarios.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

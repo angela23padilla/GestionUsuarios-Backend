@@ -1,0 +1,44 @@
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.deps.json
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfo.cs
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\refint\GestionUsuarios.Domain.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\ref\GestionUsuarios.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.deps.json
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\refint\GestionUsuarios.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\ref\GestionUsuarios.Domain.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.deps.json
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfo.cs
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\refint\GestionUsuarios.Domain.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Domain\obj\Debug\net8.0\ref\GestionUsuarios.Domain.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.deps.json
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\refint\GestionUsuarios.Domain.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Domain\obj\Debug\net8.0\ref\GestionUsuarios.Domain.dll

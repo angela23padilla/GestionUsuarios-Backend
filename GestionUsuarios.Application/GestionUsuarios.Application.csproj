@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>GestionUsuarios.Application</PackageId>
+    <Title>GestionUsuarios.Application</Title>
+    <Version>1.0.0</Version>
+    <Authors>angela padilla</Authors>
+    <Description>paquete aplication que contiene interfaces y modelos</Description>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestionUsuarios.Domain\GestionUsuarios.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

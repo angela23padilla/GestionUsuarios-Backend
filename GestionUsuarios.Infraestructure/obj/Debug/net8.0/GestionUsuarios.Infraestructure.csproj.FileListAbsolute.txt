@@ -1,0 +1,76 @@
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.deps.json
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.runtimeconfig.json
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionU.F3BA5C21.Up2Date
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\refint\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.genruntimeconfig.cache
+C:\Users\usuario\source\repos\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\ref\GestionUsuarios.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.deps.json
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.runtimeconfig.json
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionU.F3BA5C21.Up2Date
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\refint\GestionUsuarios.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.genruntimeconfig.cache
+C:\Users\nelson.rodriguez\Downloads\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\ref\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.deps.json
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.runtimeconfig.json
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionU.F3BA5C21.Up2Date
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\refint\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.genruntimeconfig.cache
+C:\Users\usuario\Downloads\GestionUsuarios\GestionUsuarios\GestionUsuarios.Infraestructure\obj\Debug\net8.0\ref\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.deps.json
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.runtimeconfig.json
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Application.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\bin\Debug\net8.0\GestionUsuarios.Domain.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionU.F3BA5C21.Up2Date
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\refint\GestionUsuarios.Infraestructure.dll
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.pdb
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\GestionUsuarios.Infraestructure.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Solucion Gestion de Usuarios\BackEnd\GestionUsuarios.Infraestructure\obj\Debug\net8.0\ref\GestionUsuarios.Infraestructure.dll
